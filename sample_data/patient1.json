@@ -1,6 +1,0 @@
-{
-    "symptoms": ["fever", "cough"],
-    "lab": { "CRP": 15, "WBC": 12000 },
-    "imaging": "xray_image.png"
-  }
-  
